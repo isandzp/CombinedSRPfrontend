@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@ant-design/icons": "^4.7.0",
-    "firebase": "^9.8.1",
-    "react-bootstrap-validation": "^0.1.11"
-  }
-}
